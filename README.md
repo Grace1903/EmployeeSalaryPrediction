@@ -1,4 +1,4 @@
-# EmployeeSalaryPredition
+# EmployeeSalaryPrediction
 Income Prediction Web App
 This project uses the "Adult" census dataset to predict whether an individual's income is greater than $50,000 per year. 
 A machine learning model was trained on this data and has been deployed as a simple, interactive web application using Streamlit.
