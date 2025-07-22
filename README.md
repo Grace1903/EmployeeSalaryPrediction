@@ -23,9 +23,13 @@ This will launch the application in your web browser, where you can input data t
 
 income-prediction-app/
 ├── data/
-│   └── adult.csv           # The dataset for training
-├── model.pkl               # The saved (pickled) classification model
-├── app.py                  # The main Streamlit application script
-└── README.md               # This file
+│   └── adult.csv          
+# The dataset for training
+├── model.pkl              
+# The saved (pickled) classification model
+├── app.py                  
+# The main Streamlit application script
+└── README.md               
+# This file
 
 📄 LicenseThis project is licensed under the MIT License.
