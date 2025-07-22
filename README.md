@@ -14,10 +14,13 @@ Easy to Use: No complex setup required to run the application locally.
 Installation & SetupTo set up and run this project on your local machine, please follow these steps.Clone the repository (or download the files):git clone https://github.com/Grace1903/EmployeeSalaryPrediction.git
 
 you can install the necessary libraries directly using pip.pip install streamlit pandas numpy scikit-learn
+
+
 ▶️ How to Run the AppWith the libraries installed, you can start the web application by running the following command from your project's root directory:streamlit run app.py
 This will launch the application in your web browser, where you can input data to get an income prediction.
 
 📂 Project StructureA typical structure for this project would be:
+
 income-prediction-app/
 ├── data/
 │   └── adult.csv           # The dataset for training
